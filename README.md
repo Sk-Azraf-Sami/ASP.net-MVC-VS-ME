@@ -1,4 +1,4 @@
-# ASP.net-MVC-
+# ASP.net-MVC VS Me
 
 step 1: $`dotnet new mvc`<br>
 step 2: $`dotnet add package Microsoft.EntityFrameworkCore.SqlServer` <br>
